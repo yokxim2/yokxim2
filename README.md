@@ -1,16 +1,38 @@
-## Hi there 👋
+yokxim2/README.md
 
-<!--
-**yokxim2/yokxim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+**Tech Stack**
+---
+* Java, Spring Boot
+* MySQL, Redis
+* GitHub Actions
+* Git, Nginx, AWS
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Project**
+---
+|Date|Project|Job|Team|
+|:--------|:-----------|:-------|:--------|
+|2024.12 ~ 2025.01|롤 듀오 매칭용 전적 확인 서비스|Backend Engineer|Team Lol-hae-duo|
+|2024.11 ~ 2024.11|부트캠프 수강신청 서비스|Backend Engineer|Team Sparta-scheduling Backend|
+<br>
+<br>
+
+<table style="width: 100%; margin: auto; max-width: 900px;">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <a href="https://github.com/yokxim2/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=yokxim2&show_icons=true&theme=radical" alt="yokxim2's GitHub stats" style="width: 350px; height: auto;" />
+      </a>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <a href="https://github.com/yokxim2/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxim2&layout=compact&theme=radical" alt="Top Langs" style="width: 350px; height: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
